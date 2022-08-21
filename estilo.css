@@ -1,0 +1,23 @@
+.paragrafo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff006e;
+}
+
+a {
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #ff006e;
+}
+
+button{
+    color: #9a031e;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 12px;
+    background-color: red;
+    border: none;
+}
